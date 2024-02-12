@@ -1,0 +1,6 @@
+@BitysTest_HostAddress = http://localhost:5044
+
+GET {{BitysTest_HostAddress}}/users
+Accept: application/json
+
+###
