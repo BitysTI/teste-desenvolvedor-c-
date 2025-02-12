@@ -40,5 +40,4 @@ Regime: CLT
 
 ## Como se candidatar
 
-Para se candidatar, basta acessar a url e realizar o teste para a vaga:
-[https://github.com/BitysTI/teste-desenvolvedor-reactjs](teste.md)
+Para se candidatar, envie seu curriculo para o e-mail rh@bitys.com.br.
